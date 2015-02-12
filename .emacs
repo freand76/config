@@ -10,3 +10,6 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  )
+
+(setq-default c-basic-offset 4)
+(setq c-default-style "linux" c-basic-offset 4)
