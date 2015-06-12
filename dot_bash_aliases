@@ -1,2 +1,3 @@
 alias cdw='cd /projects'
 alias title='~/config/set_title.sh'
+alias change='git status'
