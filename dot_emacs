@@ -24,3 +24,5 @@
              '(font . "DejaVu Sans Mono-10"))
 
 (set-face-attribute 'region nil :background "#666" :foreground "#ffffff")
+
+(server-start)

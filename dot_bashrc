@@ -133,3 +133,5 @@ exit_status_color()
     fi
 }
 PROMPT_COMMAND=exit_status_color
+
+stty -ixon
