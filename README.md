@@ -1,4 +1,4 @@
 config
 ======
 
-my confgiuration files
+my configuration files
